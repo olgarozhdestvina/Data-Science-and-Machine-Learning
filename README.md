@@ -8,17 +8,8 @@ The repository contains small projects on Data Science and Machine Learning incl
 <br>
 
 The project notebooks:
- * Data cleaning: Soccer, Billboard
+ * Data cleaning: Soccer, Billboard, Tuberculosis
  * Supervised learning - Iris
-
-----
-
-
-### Table of Contents
-* [Set up](#set_up)
-* [License](#licence)
-* [Acknowledgment](#acknowledgment)
-
 
 ----
 
