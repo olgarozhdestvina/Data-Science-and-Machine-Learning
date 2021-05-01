@@ -9,6 +9,7 @@ The repository contains small projects on Data Science and Machine Learning incl
 
 The project notebooks:
  * Data cleaning: Soccer, Billboard, Tuberculosis
+ * Data visualization: Gapminder, Income
  * Supervised learning - Iris
 
 ----
