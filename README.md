@@ -10,7 +10,7 @@ The repository contains small projects on Data Science and Machine Learning incl
 The project notebooks:
  * Data cleaning: Soccer, Billboard, Tuberculosis
  * Data visualization: Gapminder, Income
- * Data analytics: Anagrams, Weather data
+ * Data analytics: Anagrams, Weather data, Pandas, Tips, Babby names
  * Supervised learning - Iris
 
 ----
